@@ -1,1 +1,3 @@
-<img width="1536" height="1024" alt="1000004956" src="https://github.com/user-attachments/assets/0f2e176c-7b35-47c7-80bf-d67d66764467" />
+<a href="https://cryo-wiring.github.io/">
+  <img src="https://raw.githubusercontent.com/cryo-wiring/artwork/main/logo-type/logo-type.png" alt="cryo-wiring" />
+</a>
