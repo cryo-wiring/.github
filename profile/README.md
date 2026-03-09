@@ -1,6 +1,6 @@
-<a href="https://cryowire.github.io/">
-  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" />
-</a>
+<p align="center"><a href="https://cryowire.github.io/">
+  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="600" />
+</a></p>
 
 A comprehensive suite of tools for managing and visualizing dilution refrigerator wiring configurations for quantum computing systems.
 
