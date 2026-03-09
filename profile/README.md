@@ -7,5 +7,5 @@ A comprehensive suite of tools for managing and visualizing dilution refrigerato
 - **YAML-based configuration** - Human-readable wiring definitions with reusable components
 - **Schema validation** - Enforce correctness with JSON Schema and Pydantic
 - **Publication-ready diagrams** - Generate high-quality SVG wiring diagrams
-- **Version control** - Track cooldown configurations with snapshots
+- **Version control** - Organize cooldown configurations by year with automatic versioning
 - **CLI & Web UI** - Flexible workflows for every use case
