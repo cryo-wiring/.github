@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://cryowire.github.io/"><img src="https://img.shields.io/badge/Website-cryowire.github.io-38bdf8?style=for-the-badge" alt="Website" /></a>
-  <a href="https://cryowire.github.io/core/"><img src="https://img.shields.io/badge/Docs-API_Reference-818cf8?style=for-the-badge" alt="Docs" /></a>
+  <a href="https://cryowire.github.io/cryowire/"><img src="https://img.shields.io/badge/Docs-API_Reference-818cf8?style=for-the-badge" alt="Docs" /></a>
   <a href="https://cryowire.github.io/viewer/"><img src="https://img.shields.io/badge/Live-Viewer-22c55e?style=for-the-badge" alt="Viewer" /></a>
 </p>
 
